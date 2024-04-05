@@ -1,0 +1,10 @@
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/PatternLearning.iml
+.idea/vcs.xml
+PINNs/Pytorch_implementation/__pycache__/data.cpython-312.pyc
+PINNs/Pytorch_implementation/__pycache__/pinn.cpython-312.pyc
+PINNs/Pytorch_implementation/__pycache__/utils.cpython-312.pyc
