@@ -1,0 +1,39 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-04-05T13:16:25.915532",
+    "startedAt": "2024-04-05T13:16:24.976217",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\Ian_b\\Documents\\GitHub\\PatternLearning\\PINNs\\Pytorch_implementation\\cooling_eqn.py",
+    "codePathLocal": "cooling_eqn.py",
+    "codePath": "cooling_eqn.py",
+    "host": "Ians_Office_PC",
+    "username": "Ian_b",
+    "executable": "C:\\Users\\Ian_b\\.conda\\envs\\pinns\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3801.0,
+        "min": 0.0,
+        "max": 3801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3801.0,
+            "min": 0.0,
+            "max": 3801.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 930.3175621032715,
+            "used": 572.8774604797363
+        }
+    },
+    "memory": {
+        "total": 31.94527816772461
+    }
+}
